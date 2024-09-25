@@ -1,0 +1,6 @@
+Mandar a ejecutar la tarea: 2_ChangeRules en el administrador de tareas.
+
+-- 
+Importa ambos xml en el programador de tareas, cambie la ruta de c:\scripts\ por donde este tus ps1.
+
+Edite los ps1 para cambiar la ruta donde estará la carpeta de los LOG
